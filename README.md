@@ -72,13 +72,13 @@ Treinar um modelo de linguagem capaz de **responder perguntas sobre produtos** c
 
 ---
 
-## 👨‍💻 Desenvolvedores
+## 👨‍💻 Desenvolvedores (Grupo 9)
 
 - Fábio Yuiti Takaki (Discord: takakisan.)
 - Luiz Claudio Cunha de Albuquerque (Discord: inefavel1305)
 - Matheus Felipe Condé Rocha (Discord: mfconde)
 - Pedro Vitor Franco de Carvalho (Discord: pedro_black10)
-- Tatiana Yuka Takaki (Discord: tatianayk)Fase 2Grupo 7
+- Tatiana Yuka Takaki (Discord: tatianayk)
 
 ---
 
