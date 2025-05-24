@@ -1,4 +1,3 @@
-
 # 🤖 Tech Challenge - Fase 3 - Fine-Tuning de Foundation Model
 
 Projeto desenvolvido como parte do Tech Challenge da 3ª fase do curso IADT, cujo objetivo é realizar o fine-tuning de um modelo de fundação (como LLaMA, BERT ou Mistral) utilizando o dataset AmazonTitles-1.3MM.
@@ -7,7 +6,7 @@ Projeto desenvolvido como parte do Tech Challenge da 3ª fase do curso IADT, cuj
 
 ## 📌 Objetivo
 
-Treinar um modelo de linguagem capaz de responder perguntas sobre produtos com base nos títulos e descrições extraídas do dataset `trn.json`, simulando uma interface de perguntas e respostas como um chatbot para e-commerce.
+Treinar um modelo de linguagem capaz de responder perguntas sobre produtos com base nos títulos e descrições extraídas do dataset `trn.json`, simulando uma interface de perguntas e respostas como um chatbot para e-commerce. .
 
 ---
 
@@ -50,7 +49,6 @@ Foi criado o notebook [`preparar_dataset.ipynb`](https://colab.research.google.c
     - Falha de parsing (JSON inválido)
     - Título vazio
     - Descrição vazia
-
 
 ## 🧪 Configuração do Modelo
 
