@@ -93,16 +93,6 @@ Assista ao vídeo explicativo do projeto:
 Código-fonte completo e notebooks disponíveis em:
 [https://github.com/techchallangegrupo7/Fase3-Grupo9](https://github.com/techchallangegrupo7/Fase3-Grupo9)
 
-## 👥 Equipe
-
-Grupo 9 da turma IA para Devs - FIAP:
-
-- **Fábio Yuiti Takaki** (Discord: `takakisan.`)
-- **Luiz Claudio Cunha de Albuquerque** (Discord: `inefavel1305`)
-- **Matheus Felipe Condé Rocha** (Discord: `mfconde`)
-- **Pedro Vitor Franco de Carvalho** (Discord: `pedro_black10`)
-- **Tatiana Yuka Takaki** (Discord: `tatianayk`)
-
 ## 🗂️ Arquivos de Dados e Modelos 
 
 Devido à limitação de espaço no GitHub, os arquivos de dataset e os diretórios de modelos treinados estão disponíveis no Google Drive:
@@ -115,3 +105,14 @@ Devido à limitação de espaço no GitHub, os arquivos de dataset e os diretór
 - `dataset_preparado_100_alpaca.jsonl`: Dataset final em formato Alpaca.
 - `lora_model_alpaca/`: Modelo treinado com 1 época.
 - `lora_model_alpaca_2_epocas/`: Modelo treinado com 2 épocas.
+
+## 👥 Equipe
+
+Grupo 9 da turma IA para Devs - FIAP:
+
+- **Fábio Yuiti Takaki** (Discord: `takakisan.`)
+- **Luiz Claudio Cunha de Albuquerque** (Discord: `inefavel1305`)
+- **Matheus Felipe Condé Rocha** (Discord: `mfconde`)
+- **Pedro Vitor Franco de Carvalho** (Discord: `pedro_black10`)
+- **Tatiana Yuka Takaki** (Discord: `tatianayk`)
+ 
