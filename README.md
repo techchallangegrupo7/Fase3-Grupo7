@@ -86,7 +86,7 @@ The 12 stories in this volume are a wonderful send-off for Miss Marple, who, as 
 ## 🎥 Demonstração em Vídeo
 
 Assista ao vídeo explicativo do projeto:
-[🔗 YouTube – Grupo 7 Tech Challenge](https://www.youtube.com/@Grupo7TechChallenge-IAparaDevs)
+[🔗 YouTube – Grupo 7 Tech Challenge](https://youtu.be/dVy8Sf7O_cA)
 
 ## 💻 Repositório
 
