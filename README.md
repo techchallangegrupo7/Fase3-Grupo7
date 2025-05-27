@@ -58,7 +58,7 @@ Dois notebooks com configurações diferentes de épocas:
 
 ## 🤖 Inferência
 
-No notebook [`consultando_lora_opaca_tc_compare.ipynb`](https://github.com/techchallangegrupo7/Fase3-Grupo9/blob/main/Llama3.18bAlpaca/consultando_lora_opaca_tc_compare.ipynb), comparam-se:
+No notebook [`consultando_lora_opaca_tc_compare.ipynb`](https://github.com/techchallangegrupo7/Fase3-Grupo9/blob/main/Llama3.18bAlpaca/consultando_lora_opaca_tc.ipynb), comparam-se:
 
 - Modelo original (sem ajuste)
 - Modelo ajustado com 1 época
